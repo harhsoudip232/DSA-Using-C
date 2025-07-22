@@ -7,6 +7,7 @@ if(n == 1){
 
 }
 else{
+//recursive case
 
 hanoi(n-1, from, via, to);
 
